@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+1" width="180"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+2" width="180"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+3" width="180"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+4" width="180"/>
+  <img src="https://raw.githubusercontent.com/The-Zenon-Studio/roomer-ledger-app/refs/heads/main/screenshot/Screenshot_1.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/The-Zenon-Studio/roomer-ledger-app/refs/heads/main/screenshot/Screenshot_2.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/The-Zenon-Studio/roomer-ledger-app/refs/heads/main/screenshot/Screenshot_3.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/The-Zenon-Studio/roomer-ledger-app/refs/heads/main/screenshot/Screenshot_4.png" width="180"/>
 </p>
 
 Roomer is an offline expense-sharing app designed for roommates, friends, and small groups who want a clean and fair way to track shared daily expenses.  
