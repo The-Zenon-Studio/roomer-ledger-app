@@ -2,7 +2,7 @@
 ### *Split smart. Live fair.*
 
 <p align="center">
-  <img src="[https://via.placeholder.com/300x300.png?text=Roomer+App+Logo](https://raw.githubusercontent.com/The-Zenon-Studio/roomer-ledger-app/refs/heads/main/app/src/main/assets/Roomer.png)" width="180" alt="Roomer Logo"/>
+  <img src="https://raw.githubusercontent.com/The-Zenon-Studio/roomer-ledger-app/refs/heads/main/app/src/main/assets/Roomer.png" width="180" alt="Roomer Logo"/>
 </p>
 
 <p align="center">
