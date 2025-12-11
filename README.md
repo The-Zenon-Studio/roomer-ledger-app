@@ -1,7 +1,19 @@
 # 📱 Roomer  
 ### *Split smart. Live fair.*
 
-Roomer is an offline expense-sharing app designed for roommates, friends, and small groups who want a clean and fair way to track shared daily expenses. The app runs entirely on HTML, CSS, and JavaScript using LocalStorage, making it fast, lightweight, and fully usable without internet access.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/The-Zenon-Studio/roomer-ledger-app/refs/heads/main/app/src/main/assets/Roomer.png" width="180" alt="Roomer Logo"/>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+1" width="180"/>
+  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+2" width="180"/>
+  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+3" width="180"/>
+  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+4" width="180"/>
+</p>
+
+Roomer is an offline expense-sharing app designed for roommates, friends, and small groups who want a clean and fair way to track shared daily expenses.  
+The app runs entirely on **HTML, CSS, and JavaScript** using **LocalStorage**, making it fast, lightweight, and fully usable without internet access.
 
 ---
 
@@ -39,7 +51,7 @@ Roomer helps simplify shared living by automatically calculating who owes whom a
 1. Download or clone the repository  
 2. Open `index.html` directly in your browser  
 3. All data is saved automatically using LocalStorage  
-4. For Android: load the project in Android Studio WebView and build the APK  
+4. For Android: load the project into Android Studio WebView and build the APK  
 
 ---
 
@@ -51,5 +63,3 @@ Roomer helps simplify shared living by automatically calculating who owes whom a
 
 ## ⭐ Support the Project  
 If you like this project, give the repository a **star** ⭐ on GitHub to support future updates!
-
----
