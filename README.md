@@ -22,7 +22,7 @@ The app runs entirely on **HTML, CSS, and JavaScript** using **LocalStorage**, m
 ---
 
 ## 🚀 Download APK  
-👉 **[Download Roomer APK](https://example.com/roomer.apk)**  
+👉 **[Download Roomer APK](https://github.com/The-Zenon-Studio/roomer-ledger-app/releases/download/v1.0.0/Roomer_v1.0.0.apk)**  
 
 ---
 
